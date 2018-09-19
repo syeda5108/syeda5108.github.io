@@ -1,0 +1,32 @@
+
+#family{
+    color: hotpink;
+    font-family: "Brush Script MT";
+    text-align: center;
+}
+body{
+    background-color: lightblue;
+}
+
+h1{
+    color: black;
+    font-family: "Arial Rounded MT Bold";
+    text-align: center;
+    background-color: crimson;
+}
+#fov{
+    color: hotpink;
+    font-family: "Brush Script MT";
+}
+#my\ fov{
+    color: hotpink;
+    font-family: "Brush Script MT";
+}
+#hov{
+    color: hotpink;
+    font-family: "Brush Script MT";
+}
+#promo{
+    color: hotpink;
+    font-family: "Brush Script MT";
+}

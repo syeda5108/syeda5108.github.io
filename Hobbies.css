@@ -1,0 +1,38 @@
+h1{
+    color: black;
+    font-family: "Arial Rounded MT Bold";
+    background-color: crimson;
+    text-align: center;
+}
+
+#fov{
+    color: hotpink;
+    font-family: "Brush Script MT";
+}
+
+#my\ fov{
+    color:hotpink;
+    font-family: "Brush Script MT";
+}
+
+#hov{
+    color:hotpink;
+    font-family: "Brush Script MT";
+}
+
+#promo{
+    color: hotpink;
+    font-family: "Brush Script MT";
+}
+
+#film{
+    color: crimson;
+    font-family: "Bookman Old Style";
+}
+#writing{
+    color: crimson;
+    font-family: "Bookman Old Style";
+}
+body{
+    background-color: lightgoldenrodyellow;
+}
